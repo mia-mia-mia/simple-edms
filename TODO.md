@@ -1,7 +1,17 @@
 ## Architecture
 -  Database
-- - data that manages
+- - sql data
 - - file data
+- - - sqlite
+
+- Automatic Backups!!!
+  - local backup
+  - S3
+     - strato
+     - AWS
+     - Backblaze
+     - Google
+    
 ----
 - OCR
 - - IMGs
